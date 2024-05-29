@@ -22,6 +22,14 @@ print(s3 @ {"x": True, "y": True, "w": False})
 
 ## Installation
 
+From pypi:
+
+```sh
+pip install first-order
+```
+
+Latest commit:
+
 ```sh
 pip install git+https://github.com/olivi-r/first-order.git#egg=first-order
 ```
